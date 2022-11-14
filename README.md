@@ -1,10 +1,9 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+##  Olá, seja bem-vindo(a) ao projeto Trybesmith!
+
+Iremos criar uma loja de itens medievais, no formato de uma API, utilizando Typescript.
+Vamos desenvolver todas as camadas da aplicação (Models, Service e Controllers) e, por meio dessa aplicação, será possível realizar as operações básicas que se pode fazer em um determinado banco de dados: Criação, Leitura, Atualização e Exclusão (ou CRUD, para as pessoas mais íntimas stuck_out_tongue_winking_eye - Create, Read, Update e Delete).
+E vamos criar endpoints que irão ler e escrever em um banco de dados, utilizando o MySQL
+
+Diagrama Entidade Relacionamento
+
+![diagrama3](https://user-images.githubusercontent.com/102389971/201719273-588f5aa7-3627-4cb1-aa2b-3575382c6fd2.png)
